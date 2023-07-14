@@ -1,0 +1,16 @@
+.impar {
+    background-color: rgb(222, 170, 179);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#special {
+    color: rgb(41, 41, 255);
+    font-size: 36px;
+}
+.font24 {
+    font-size: 24px;
+}
+#special2 {
+    background-color: rgb(134, 252, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
